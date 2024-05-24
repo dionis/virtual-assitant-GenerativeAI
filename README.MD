@@ -131,3 +131,7 @@ npm run dev
 
 ## Implementing a chatbot ui with audio and video in Angular
 In this [rar file](https://github.com/ClaudiaQueipo/thesis-chatbot/blob/master/DOC/angular%20video%20audio.rar) is an aproach to achieve it.
+
+## How to intall Ollama with Docker
+
+[Tutorial](https://khandelwal-shekhar.medium.com/deploy-ollama-using-official-docker-image-c09a27cd332f)
